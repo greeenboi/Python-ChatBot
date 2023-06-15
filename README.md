@@ -5,9 +5,8 @@ A snarky chatbot made using <a href="https://huggingface.co/microsoft/DialoGPT-m
 
 ## Setup
 
-1. Download the repository as a zip file or 
-clone the repository with the following command
-<br>
+1. Download the repository as a zip file or clone the repository with the following command
+
 ```
 git clone https://github.com/greeenboi/Python-ChatBot.git
 ```
@@ -21,3 +20,5 @@ python app.py
 
 
 ## Screenshots
+![Screenshot 2023-06-15 234628](https://github.com/greeenboi/Python-ChatBot/assets/118198968/f03dd66d-e1f1-40c6-bdfe-64ba575d80a6)
+![Screenshot 2023-06-15 234641](https://github.com/greeenboi/Python-ChatBot/assets/118198968/aae1c689-3f63-4bf6-8ec8-d603d7ef0dd6)
