@@ -9,7 +9,7 @@ body{
 	height: 100%;
 	margin: 0;  
 
-	background: linear-gradient(-45deg, rgb(128, 186, 40), rgb(6, 24, 60), rgb(34, 34, 84));
+	background: linear-gradient(-45deg, rgb(128, 186, 40), rgb(6, 25, 63), rgb(33, 33, 79), rgb(17, 6, 62));
 	background-size: 400% 400%;
 	animation: gradient 20s ease-in-out infinite;
 	height: 100vh;
